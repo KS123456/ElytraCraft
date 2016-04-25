@@ -1,0 +1,8 @@
+name: ElytraCraft
+main: com.koens.elytracraft.ElytraCraft
+author: TheRealKS123
+version: 1.0.0
+permissions:
+    elytracraft.craft:
+        description: Permission to craft an elytra
+        default: true
